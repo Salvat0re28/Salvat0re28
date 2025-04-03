@@ -1,6 +1,4 @@
 ![0404](https://github.com/user-attachments/assets/11ef41d0-ca73-4703-a044-4dea9b8b41e2)
-<div id="badges">
-  https://img.shields.io/badge/Telegram-blue
 <!--
 
 **Salvat0re28/Salvat0re28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
